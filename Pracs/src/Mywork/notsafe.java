@@ -1,3 +1,4 @@
+package Mywork;
 
 class SaleTicket implements Runnable{
     static int ticket = 100;
