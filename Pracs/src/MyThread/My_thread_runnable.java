@@ -1,4 +1,4 @@
-package Mywork;
+package MyThread;
 
 public class My_thread_runnable {
     public static void main(String[] args) {

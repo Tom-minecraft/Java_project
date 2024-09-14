@@ -1,4 +1,4 @@
-package Mywork;
+package MyThread;
 
 class Bank {
     public Bank(){}

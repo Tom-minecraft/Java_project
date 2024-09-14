@@ -1,4 +1,4 @@
-package Mywork;
+package MyThread;
 
 class print_num implements Runnable {
     private int number = 1;

@@ -1,4 +1,4 @@
-package Mywork;
+package MyThread;
 
 //Java Thread_class
 public class My_thread {

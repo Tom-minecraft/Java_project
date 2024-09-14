@@ -1,4 +1,4 @@
-package Mywork;
+package MyThread;
 
 class SaleTicket implements Runnable{
     static int ticket = 100;
